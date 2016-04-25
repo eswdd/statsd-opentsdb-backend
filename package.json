@@ -10,7 +10,6 @@
   "dependencies": {
   },
   "devDependencies": {
-    "nodeunit": "0.7.x"
   },
   "engine": {
     "node": ">=0.4"
